@@ -1,5 +1,5 @@
 # 💫 About Me:
-### Hi there, I'm Shaurya 👋  <br>🎓 Final Year @ RGIPT  <br>💻 Passionate about Full Stack Dev, Data Science, DSA  <br>🏸 Loves Badminton | 🚀 Aspiring SWE<br>
+### Hi there, I'm Shaurya 👋  <br>🎓 Final Year @ RGIPT  <br>💻 Passionate about Full Stack Dev, DSA  <br>🏸 Loves Badminton | 🚀 Aspiring SWE<br>
 
 
 ## 🌐 Socials:
